@@ -188,6 +188,10 @@ html {
   transition: all 0.6s ease-in-out;
   color: #d9d9d9;
   text-decoration: none;
+  border: 1px solid #d9d9d9;
+  padding: 2.5px 5px;
+  font-size: 12px;
+  margin-top: 1rem;
 }
 .hero-image a:hover {
   transition: all 0.6s ease-in-out;
@@ -218,26 +222,26 @@ html {
   align-items: center;
   text-align: center;
   color: #d9d9d9;
-  font-size: 15px;
   padding: 1rem;
+  height: 100vh;
 }
 .about-image .about-text h1 {
-  margin-top: 3rem;
   justify-content: center;
+  font-size: 20px;
 }
 .about-image .about-text p {
-  font-size: 19px;
+  font-size: 15px;
 }
 .about-image .about-text .contact {
-  padding: 0px 10px;
-  background: rgba(0, 5, 30, 0.4196078431);
   border-radius: 6px;
   cursor: pointer;
   transition: all 0.6s ease-in-out;
   color: #d9d9d9;
-  border: #000;
-  cursor: pointer;
   text-decoration: none;
+  border: 1px solid #d9d9d9;
+  padding: 2.5px 5px;
+  font-size: 12px;
+  margin-top: 1rem;
 }
 .about-image .about-text .contact:hover {
   transition: all 0.6s ease-in-out;
@@ -268,15 +272,15 @@ html {
   align-items: center;
   text-align: center;
   color: #d9d9d9;
-  font-size: 15px;
   padding: 1rem;
 }
 .products-image .products-text h1 {
-  margin-top: 3rem;
+  margin-top: 1rem;
   justify-content: center;
+  font-size: 20px;
 }
 .products-image .products-text p {
-  font-size: 19px;
+  font-size: 12px;
 }
 .products-image .products-text .contact {
   padding: 0px 10px;
@@ -312,20 +316,21 @@ html {
   align-items: center;
   text-align: center;
   color: #d9d9d9;
-  font-size: 15px;
   padding: 1rem;
 }
 .contact-text h1 {
   margin-top: 3rem;
   justify-content: center;
+  font-size: 20px;
 }
 .contact-text p {
-  font-size: 19px;
+  font-size: 12px;
 }
 .contact-text .mail {
   text-decoration: none;
   color: #d9d9d9;
   transition: all 0.6s ease-in-out;
+  font-size: 12px;
 }
 .contact-text .mail:hover {
   transition: all 0.6s ease-in-out;
@@ -335,6 +340,7 @@ html {
   text-decoration: none;
   color: #d9d9d9;
   transition: all 0.6s ease-in-out;
+  font-size: 12px;
 }
 .contact-text .phone:hover {
   transition: all 0.6s ease-in-out;
