@@ -445,11 +445,11 @@ footer {
 footer .footer-content {
   max-width: 800px;
   margin: 0 auto;
-  color: #777;
+  color: #fffdfd;
   font-size: 14px;
 }
 footer a {
-  color: #777;
+  color: #fff9f9;
   text-decoration: none;
   cursor: pointer;
   text-decoration: none;
@@ -457,14 +457,14 @@ footer a {
 }
 footer a:hover {
   transition: all 0.6s ease-in-out;
-  color: rgb(0, 64, 255) !important;
+  color: #fffefe;
 }
 footer .footer-content ul li {
   display: inline-block;
   margin-right: 10px;
 }
 footer .footer-content ul li a {
-  color: #777;
+  color: #ffffff;
   text-decoration: none;
 }
 
